@@ -10,8 +10,7 @@ Let ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets
  matrix ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/fdf4e7f5-4ec5-4303-bc7d-4d3f3291c77f)
  is the product of matrixes A and B and is denoted as ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/aa1cad57-9909-4d53-ac11-ad70578c86aa)
 , where the elements in the i th row and the j th column of the matrix ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/9a681312-1b9e-4526-ad50-05673b22dfcf)
-
- can be expressed as
+can be expressed as
 
 ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/2f956acf-828b-4de3-89fb-36276745f679)
 
