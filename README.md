@@ -25,4 +25,4 @@ This calculates the total number of floating-point operations (FLOPs) required t
 This calculates the performance of the matrix multiplication operation in GigaFLOPS. execution_time represents the time taken to complete the matrix multiplication in seconds. The division num_flops / execution_time gives us the number of FLOPs per second, and dividing it by 1e9 converts it into GigaFLOPS.
 
 ## Performance Comparison:
-![Screenshot](Performace_comparison.png)
+![Screenshot](Performance_comparison.png)
