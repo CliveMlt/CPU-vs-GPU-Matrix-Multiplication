@@ -2,17 +2,17 @@
 This script will perform matrix multiplication using CPU computation with NumPy and then compare it with GPU computation using TensorFlow. 
 
 ## Matrix Multiplication Formula:
-Let ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/a656a938-915f-40ea-8705-c3f9fd15045a)
- be a ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/e7fb6d2e-3046-4705-9628-34dfc6f6e47d)
- matrix and ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/273910e6-c508-44b9-8770-d218d210c5ec)
+Let ![image](![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/5d58481a-3ab1-4daf-ae0c-971178763d04)
+ be a ![image](![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/4c0c0c07-ecba-4c74-870a-3edf6e1ad321)
+ matrix and ![image](![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/95b1e1cd-4d36-4ae5-abc6-122dca1d0e90)
  be a ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/932c43fe-66ca-423b-bd97-913b885d0d63)
- matrix. Then the ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/6c81b126-41b3-4170-bd96-3dcf46a65e1f)
+ matrix. Then the ![image](![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/7114eec2-554d-4835-9844-c34e295125b1)
  matrix ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/2efdc41d-3c1f-4ca7-85be-4a4832cc0667)
  is the product of matrixes A and B and is denoted as ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/239a6f1a-8bb4-4c01-90bd-830e9f342bf1)
 , where the elements in the i th row and the j th column of the matrix ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/8e5f2845-5650-4dc8-9750-6eac25037630)
  can be expressed as
 
-![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/864b96b1-ba5f-4c16-b482-40fa57d9e52b)
+![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/2f956acf-828b-4de3-89fb-36276745f679)
 
 ## Calculatining the GFLOPs:
 
