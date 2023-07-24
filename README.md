@@ -1,5 +1,5 @@
 # CPU-vs-GPU-Matrix-Multiplication
-This script will perform matrix multiplication using CPU computation with NumPy and then compare it with GPU computation using TensorFlow. 
+This script will perform matrix multiplication using CPU computation with NumPy and then compare it with GPU computation without CUDA using TensorFlow. 
 
 ## Matrix Multiplication Formula:
 Let ![image](https://github.com/CliveMlt/CPU-vs-GPU-Matrix-Multiplication/assets/9218133/5d58481a-3ab1-4daf-ae0c-971178763d04)
